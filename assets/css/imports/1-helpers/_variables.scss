@@ -1,0 +1,60 @@
+ // GLOBAL VARIABLES
+
+/* Hi */
+ @font-face {
+    font-family: 'ooredoo-heavy';
+    src: url('fonts/Ooredoo-Heavy.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+ @font-face {
+    font-family: 'NotoRegular';
+    src: url('fonts/noto_sansregular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Notolight';
+    src: url('fonts/NotoSans-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Notobold';
+    src: url('fonts/noto_sansbold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+// Ooredoo Font family
+$headding:'ooredoo-heavy', Arial, Helvetica, sans-serif;
+$bodytext:'NotoRegular', Arial, Helvetica, sans-serif;
+$thintext:'Notolight', Arial, Helvetica, sans-serif;
+$boldtext:'Notobold', Arial, Helvetica, sans-serif;
+
+
+
+
+
+
+
+
+
+
+// scss-docs-start theme-color-variables
+$primary:       #ed1c24 ;
+$secondary:     #221E20;
+$white:    #fff;
+// scss-docs-end theme-color-variables
+
+
+
+
+

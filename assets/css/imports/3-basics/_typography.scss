@@ -1,0 +1,46 @@
+
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6{
+    font-family: $headding;
+    color: $primary;
+    font-weight: bold;
+}
+
+h2,.h2{
+    font-size: 30px;
+    line-height: 36px;
+}
+
+h5,.h5{
+    font-size: 14px;
+    line-height: 20px;
+}
+h6,.h6{
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.bodytext16{
+    //styleName: Raleys Body 16;
+font-family: $bodytext;
+font-size: 16px;
+font-style: normal;
+
+}
+.bodytext14{
+    //styleName: Raleys Body 16;
+font-family: $bodytext;
+font-size: 14px;
+font-style: normal;
+
+}
+.bodytext12{
+    //styleName: Raleys Body 16;
+font-family: $bodytext;
+font-size: 12px;
+font-style: normal;
+
+}
+
+
+
